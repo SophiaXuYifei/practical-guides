@@ -8,7 +8,7 @@
 
 ### Git
 
-- [GitHub 实用指南](./GitHub实用指南.md)
+- [Git 实用指南](./practical-guides/git-guide.md)
 
 内容包括：
 
@@ -23,7 +23,7 @@
 
 ### Linux
 
-- [Nano 使用指南](./nano使用指南.md)
+- [Nano 实用指南](./practical-guides/nano-guide.md)
 
 内容包括：
 
